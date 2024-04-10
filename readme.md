@@ -3,3 +3,13 @@
 
 # B站优质课程
 1. [金融工程](https://www.bilibili.com/video/BV1TF411T7m5/?spm_id_from=333.788&vd_source=76c7850fa4d74c2a9ddeccdc5474983f)
+
+# 期刊论文
+1. Journal of Finance
+2. Journal of Financial Economics
+3. The Review of Financial Studies
+4. Journal of Business & Economic Statistics
+5. Econometrica
+6. Journal of the American Statistical Association
+7. Journal of the Royal Statistical Society
+8. The Review of Economics and Statistics
