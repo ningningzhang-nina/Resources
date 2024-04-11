@@ -18,3 +18,5 @@
 6. Journal of the American Statistical Association
 7. Journal of the Royal Statistical Society
 8. The Review of Economics and Statistics
+# 下载书籍的网站
+1. [Library Genesis](https://libgen.rs/)
