@@ -21,3 +21,5 @@
 8. The Review of Economics and Statistics
 # 下载书籍的网站
 1. [Library Genesis](https://libgen.rs/)
+# CPA
+1. [2024年教材](https://pan.baidu.com/s/16o6kH1khCLVIV5BUJ0Z1nw?pwd=whij)提取码: whij
