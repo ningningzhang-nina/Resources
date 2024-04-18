@@ -1,4 +1,9 @@
--[经典教科书](#经典教科书)
+- [经典教科书](#经典教科书)
+- [B站优质课程](#B站优质课程)
+- [期刊论文](#期刊论文)
+- [下载书籍的网站](#下载书籍的网站)
+- [CPA](#CPA)
+- [latex模板](#latex模板)
 # 经典教科书
 1. [期权，期货及其他衍生产品](https://pan.baidu.com/s/1exibvNOPn4i8aD8beH4o-w?pwd=n8vq)提取码: n8vq
 2. [金融时间序列分析第二版](https://pan.baidu.com/s/1CkTfzMCCc9vPYXeQDjPXmQ?pwd=ici4)提取码: ici4
