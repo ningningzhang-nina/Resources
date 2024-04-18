@@ -1,3 +1,4 @@
+-[经典教科书](#经典教科书)
 # 经典教科书
 1. [期权，期货及其他衍生产品](https://pan.baidu.com/s/1exibvNOPn4i8aD8beH4o-w?pwd=n8vq)提取码: n8vq
 2. [金融时间序列分析第二版](https://pan.baidu.com/s/1CkTfzMCCc9vPYXeQDjPXmQ?pwd=ici4)提取码: ici4
@@ -23,3 +24,6 @@
 1. [Library Genesis](https://libgen.rs/)
 # CPA
 1. [2024年教材](https://pan.baidu.com/s/16o6kH1khCLVIV5BUJ0Z1nw?pwd=whij)提取码: whij
+
+# latex模板
+1. [香港大学HKU latex beamer模板](https://pan.baidu.com/s/1UgxwMJVcC1lzYQoBsHzg7Q?pwd=zi62)提取码: zi62
