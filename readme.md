@@ -4,6 +4,7 @@
 - [下载书籍的网站](#下载书籍的网站)
 - [CPA](#CPA)
 - [latex模板](#latex模板)
+- [人文书籍](#人文书籍)
 # 经典教科书
 1. [期权，期货及其他衍生产品](https://pan.baidu.com/s/1exibvNOPn4i8aD8beH4o-w?pwd=n8vq)提取码: n8vq
 2. [金融时间序列分析第二版](https://pan.baidu.com/s/1CkTfzMCCc9vPYXeQDjPXmQ?pwd=ici4)提取码: ici4
@@ -33,3 +34,6 @@
 
 # latex模板
 1. [香港大学HKU latex beamer模板](https://pan.baidu.com/s/1UgxwMJVcC1lzYQoBsHzg7Q?pwd=zi62)提取码: zi62
+
+# 人文书籍
+1. [反脆弱](链接: https://pan.baidu.com/s/1h65TddJuHcPSbmLKts-b9g?pwd=rk58 提取码: rk58)
