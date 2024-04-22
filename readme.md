@@ -40,4 +40,4 @@
 1. [反脆弱](链接: https://pan.baidu.com/s/1h65TddJuHcPSbmLKts-b9g?pwd=rk58 提取码: rk58)
 
 # 英语学习
-1. [联系口语听力app](https://youglish.com/)
+1. [练习口语听力app](https://youglish.com/)
