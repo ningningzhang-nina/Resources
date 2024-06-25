@@ -14,6 +14,7 @@
 5. [Asymptotic Theory for Econometricians](https://pan.baidu.com/s/1Gwaki5l73hDgo9qa3hoYmg?pwd=hfbv)提取码: hfbv
 6. [宋逢明 - 金融工程原理-清华大学出版社 (1999)](https://pan.baidu.com/s/1iVRb_mZMsqqHVMgQNoZmqw?pwd=zrhh)提取码: zrhh
 7. [高鸿业-西方经济学](https://pan.baidu.com/s/1Ag1a0KI8Q4YORinRj3iKxA?pwd=pcs3)提取码: pcs3
+8. [同济大学-高等数学第七版上下册](https://pan.baidu.com/s/10vGtd2mtZguJTysRxwy9RQ?pwd=a9eb)提取码: a9eb
 
 # B站优质课程
 1. [金融工程](https://www.bilibili.com/video/BV1TF411T7m5/?spm_id_from=333.788&vd_source=76c7850fa4d74c2a9ddeccdc5474983f)
